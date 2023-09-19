@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+   
+}
+body{
+    background-color:grey ;
+    display: flex;
+}
+/* section{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    width: 100vh;
+    height: 100vw; */
+
+.signout, a {
+    position: relative;
+    left: 620px;
+    top:20px;
+    font-size: 50px;
+    color: navy;
+    
+}
+.dashboard, h1 {
+    
+    padding: 150px;
+    font-size: 100px;
+    justify-content: center;
+    color:navy;
+}
